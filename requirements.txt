@@ -1,3 +1,4 @@
 TikTokApi==5.2.2
 playwright==1.24.0
 moviepy==1.0.3
+pandas==1.4.3
